@@ -21,25 +21,30 @@
 </div>
 
 ### 🚀 About Me
-```python
-class Backend_Engineer:
-    def __init__(self):
-        self.name = "Ujjwal"
-        self.role = "Backend Developer"
-        self.languages = ["Python", "Go", "SQL", "Rust"]
-        self.frameworks = {
-            "python": ["Django", "FastAPI", "Flask", "aiohttp"],
-            "go": ["Gin", "Echo", "Fiber"],
-            "tools": ["GraphQL", "gRPC", "Redis", "RabbitMQ"]
-        }
-        self.databases = ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
-        self.cloud = ["AWS", "Docker", "Kubernetes", "Terraform"]
-        self.monitoring = ["Prometheus", "Grafana", "ELK Stack"]
-        self.architecture = ["Microservices", "Event-Driven", "DDD"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build scalable systems together!")
-```
+<div align="center">
+<pre style="background-color:#0a0a0a;color:#33ff33;padding:20px;border-radius:10px;font-family:'Courier New'">
+┌──────────────────────────────────────────┐
+│           SYSTEM INFORMATION             │
+├──────────────────────────────────────────┤
+│ > NAME: Ujjwal                          │
+│ > ROLE: Backend Developer               │
+│ > LANGUAGES: Python, Go, SQL, Rust      │
+│                                         │
+│ > FRAMEWORKS {                          │
+│   python: [Django, FastAPI, Flask]      │
+│   go: [Gin, Echo, Fiber]               │
+│   tools: [GraphQL, gRPC, Redis]        │
+│ }                                       │
+│                                         │
+│ > DATABASES: [                          │
+│   PostgreSQL, MongoDB,                  │
+│   Redis, Elasticsearch                  │
+│ ]                                       │
+│                                         │
+│ > MISSION: Building Scalable Systems    │
+└──────────────────────────────────────────┘
+</pre>
+</div>
 
 ### ⚡ Tech Arsenal
 <p align="center">
@@ -78,15 +83,19 @@ class Backend_Engineer:
 </div>
 
 ### 💾 System Stats
-```plaintext
-╔══════════════════════════════════╗
-║ OS          › AWS Cloud          ║
-║ Shell       › Go & Python        ║
-║ IDE         › VS Code & Vim      ║
-║ Projects    › Always Building    ║
-║ Learning    › Rust & DDD         ║
-╚══════════════════════════════════╝
-```
+<div align="center">
+<pre style="font-family:'Courier New'">
+╔════════════════════ SYSTEM LOG ═════════════════════╗
+║                                                     ║
+║  [SYS] » OS.............: AWS Cloud                 ║
+║  [SYS] » SHELL.........: Go & Python               ║
+║  [SYS] » IDE...........: VS Code & Vim             ║
+║  [SYS] » STATUS.......: Always Building            ║
+║  [SYS] » CURRENT_TASK.: Learning Rust & DDD        ║
+║                                                     ║
+╚═════════════════════════════════════════════════════╝
+</pre>
+</div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
@@ -104,5 +113,9 @@ class Backend_Engineer:
 </p>
 
 <div align="center">
-  <img src="https://github.com/whyujjwal/whyujjwal/blob/main/assets/cool-bottom.svg" width="100%">
+<pre>
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+     Thanks for visiting! Happy coding! (⌐■_■)
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+</pre>
 </div>
