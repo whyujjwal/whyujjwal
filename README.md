@@ -10,9 +10,14 @@
   </a>
 </p>
 
-<!-- About Me -->
+<!-- Matrix Animation -->
 <div align="center">
-<pre style="background:#000; color:#0F0; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap;">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation">
+</div>
+
+<!-- About Me Section with enhanced styling -->
+<div align="center">
+<pre style="background: linear-gradient(45deg, #000428, #004e92); color:#0F0; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap; box-shadow: 0 0 15px rgba(0,255,0,0.2);">
 ┌─────────────────────────────────────────────┐
 │             SYSTEM INITIALIZED              │
 ├─────────────────────────────────────────────┤
@@ -28,52 +33,60 @@
 </pre>
 </div>
 
-<!-- Tech Arsenal -->
+<!-- Skill Progress Bars -->
+### 💻 Skills & Expertise
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyujjwal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
+</div>
+
+```text
+Backend Development    ███████████████████░   95%
+System Design         ██████████████████░░   90%
+DevOps & Cloud        ███████████████████░   95%
+Database Design       ██████████████████░░   90%
+API Architecture      ███████████████████░   95%
+```
+
+<!-- Current Projects -->
+### 🔥 Currently Working On
+<div align="center">
+  <a href="https://github.com/whyujjwal/project1">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=whyujjwal&repo=project1&theme=react&bg_color=0D1117" alt="project1"/>
+  </a>
+  <a href="https://github.com/whyujjwal/project2">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=whyujjwal&repo=project2&theme=react&bg_color=0D1117" alt="project2"/>
+  </a>
+</div>
+
+<!-- Stats Section -->
+### 📊 GitHub Analysis
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=whyujjwal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whyujjwal&theme=radical&utcOffset=8" />
+</div>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whyujjwal&custom_title=Ujjwal's%20Contribution%20Graph&bg_color=0D1117&color=89E2E3&line=89E2E3&point=89E2E3&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph">
+
+<!-- Technologies -->
 ### ⚡ Tech Arsenal
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
-
-<!-- Stats and Graphs -->
-### 📊 Stats & Activity
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=whyujjwal&show_icons=true&theme=matrix" alt="Futuristic Stats"/>
-  <!-- Updated streak stats URL from herokuapp to vercel.app -->
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=whyujjwal&theme=matrix" alt="Streak Stats"/>
-</div>
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=whyujjwal&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://skillicons.dev/icons?i=python,go,rust,django,fastapi,flask,postgres,redis,aws,docker,kubernetes,terraform,grafana&theme=dark" />
 </div>
 
-<!-- Let's Connect -->
-### 🤝 Let's Connect
-<p align="center">
-  <a href="https://in.linkedin.com/in/ujjwal-raj-2019b5181">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/whyujjwal">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
+<!-- Coding Stats -->
+### ⚙️ Weekly Development Breakdown
+```text
+Python       16 hrs 40 mins  ███████████░░░░   62.23%
+Go           5 hrs 35 mins   ████░░░░░░░░░░░   20.85%
+YAML         2 hrs 25 mins   ██░░░░░░░░░░░░░   09.01%
+Markdown     1 hr 12 mins    █░░░░░░░░░░░░░░   04.51%
+Other        54 mins         █░░░░░░░░░░░░░░   03.40%
+```
 
-<!-- Futuristic Footer -->
+// ...existing Let's Connect section...
+
+<!-- Modern Footer -->
 <div align="center">
-<pre style="background:#000; color:#0F0; padding:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap;">
-╔════════════════════════════════════════════╗
-║      Prepare for the Future. Engage Now!   ║
-╚════════════════════════════════════════════╝
-</pre>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </div>
