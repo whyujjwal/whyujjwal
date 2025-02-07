@@ -23,8 +23,8 @@
 ├─────────────────────────────────────────────┤
 │  Name       : Ujjwal                        │
 │  Role       : Backend Developer & DevOps    │
-│  Languages  : Python, Go, SQL, Rust         │
-│  Frameworks : Django, FastAPI, Flask, Gin   │
+│  Languages  : Python, Go, SQL, Rust, Node.js│
+│  Frameworks : Django, FastAPI, Gin, Electron│
 │  Databases  : PostgreSQL, MongoDB, Redis    │
 │  Cloud      : AWS, Docker, Kubernetes       │
 │  Monitoring : Prometheus, Grafana, ELK Stack│
@@ -47,17 +47,6 @@ Database Design       ██████████████████░�
 API Architecture      ███████████████████░   95%
 ```
 
-<!-- Current Projects -->
-### 🔥 Currently Working On
-<div align="center">
-  <a href="https://github.com/whyujjwal/project1">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=whyujjwal&repo=project1&theme=react&bg_color=0D1117" alt="project1"/>
-  </a>
-  <a href="https://github.com/whyujjwal/project2">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=whyujjwal&repo=project2&theme=react&bg_color=0D1117" alt="project2"/>
-  </a>
-</div>
-
 <!-- Stats Section -->
 ### 📊 GitHub Analysis
 <div align="center">
@@ -71,7 +60,7 @@ API Architecture      ███████████████████�
 <!-- Technologies -->
 ### ⚡ Tech Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,django,fastapi,flask,postgres,redis,aws,docker,kubernetes,terraform,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,nodejs,electron,django,fastapi,postgres,redis,aws,docker,kubernetes,terraform,grafana&theme=dark" />
 </div>
 
 <!-- Coding Stats -->
@@ -84,7 +73,15 @@ Markdown     1 hr 12 mins    █░░░░░░░░░░░░░░   04.
 Other        54 mins         █░░░░░░░░░░░░░░   03.40%
 ```
 
-// ...existing Let's Connect section...
+### 🤝 Let's Connect
+<p align="center">
+  <a href="https://in.linkedin.com/in/ujjwal-raj-2019b5181">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/whyujjwal">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
 <!-- Modern Footer -->
 <div align="center">
