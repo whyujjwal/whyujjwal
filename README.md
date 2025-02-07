@@ -12,18 +12,18 @@
 
 <!-- About Me -->
 <div align="center">
-<pre style="background:#000; color:#0F0; padding:20px; border-radius:10px; font-family:'Courier New', monospace;">
+<pre style="background:#000; color:#0F0; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap;">
 ┌─────────────────────────────────────────────┐
-│             SYSTEM INITIALIZED             │
+│             SYSTEM INITIALIZED              │
 ├─────────────────────────────────────────────┤
 │  Name       : Ujjwal                        │
 │  Role       : Backend Developer & DevOps    │
-│  Languages  : Python, Go, SQL, Rust          │
-│  Frameworks : Django, FastAPI, Flask, Gin     │
-│  Databases  : PostgreSQL, MongoDB, Redis, ES   │
-│  Cloud      : AWS, Docker, Kubernetes, Terraform│
-│  Monitoring : Prometheus, Grafana, ELK Stack   │
-│  Mission    : Build Scalable, Cyber Systems   │
+│  Languages  : Python, Go, SQL, Rust         │
+│  Frameworks : Django, FastAPI, Flask, Gin   │
+│  Databases  : PostgreSQL, MongoDB, Redis    │
+│  Cloud      : AWS, Docker, Kubernetes       │
+│  Monitoring : Prometheus, Grafana, ELK Stack│
+│  Mission    : Build Scalable, Cyber Systems │
 └─────────────────────────────────────────────┘
 </pre>
 </div>
@@ -51,7 +51,8 @@
 ### 📊 Stats & Activity
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=whyujjwal&show_icons=true&theme=matrix" alt="Futuristic Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whyujjwal&theme=matrix" alt="Streak Stats"/>
+  <!-- Updated streak stats URL from herokuapp to vercel.app -->
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=whyujjwal&theme=matrix" alt="Streak Stats"/>
 </div>
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=whyujjwal&theme=react-dark" alt="Activity Graph"/>
@@ -70,9 +71,9 @@
 
 <!-- Futuristic Footer -->
 <div align="center">
-<pre style="background:#000; color:#0F0; padding:10px; font-family:'Courier New', monospace;">
+<pre style="background:#000; color:#0F0; padding:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap;">
 ╔════════════════════════════════════════════╗
-║      Prepare for the Future. Engage Now!     ║
+║      Prepare for the Future. Engage Now!   ║
 ╚════════════════════════════════════════════╝
 </pre>
 </div>
