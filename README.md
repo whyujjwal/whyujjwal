@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://in.linkedin.com/in/ujjwal-raj-2019b5181"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://x.com/whyujjwal"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"></a>&nbsp;
-  <a href="https://www.upwork.com/freelancers/~012ba707551e14d126"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white" alt="Upwork"></a>
+  <a href="https://x.com/whyujjwal"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
 </p>
 
 ---
