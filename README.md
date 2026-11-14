@@ -1,7 +1,7 @@
 <!-- hello, fellow view-source enjoyer. the terminal is drawn by scripts/render_terminal.py -->
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="ujjwal@github running neofetch. Role: Applied AI Engineer @ NVIDIA. Host: New Delhi, India. OS: BITS Pilani B.E. Kernel: Python, Go, TypeScript. Agents: LangChain, MCP, RAG.">
+  <img src="assets/terminal.svg" width="100%" alt="ujjwal@github running neofetch. Role: AI Agent &amp; Automation Engineer. Host: New Delhi, India. OS: BITS Pilani B.E. Kernel: Python, Go, TypeScript. Agents: LangChain, MCP, RAG.">
 </p>
 
 <pre>
@@ -14,10 +14,10 @@
        <b>ujjwal</b> [<b>--agents</b>] [<b>--rag</b>] [<b>--backend</b>] <i>problem</i>
 
 <b>DESCRIPTION</b>
-       Applied AI engineer at <b>NVIDIA</b>, based in New Delhi. B.E., BITS Pilani.
+       AI agent &amp; automation engineer in New Delhi. B.E., BITS Pilani.
        Builds multi-agent systems, RAG pipelines and backends that run in
-       production. Previously led AI for a research platform with BITS
-       Pilani and India's Ministry of Tribal Affairs (100K+ gov documents).
+       production. Led AI for a research platform with BITS Pilani and
+       India's Ministry of Tribal Affairs, over 100K+ government documents.
 
 <b>SEE ALSO</b>
        <a href="https://whyujjwal.com">whyujjwal.com</a>(7), <a href="https://in.linkedin.com/in/ujjwal-raj-2019b5181">linkedin</a>(1), <a href="https://x.com/whyujjwal">x</a>(1)
@@ -36,7 +36,6 @@
 
 <pre>
 <b>$ git log --oneline career</b>
-2a79ca7 <b>(HEAD -&gt; main)</b> Applied AI Engineer @ <b>NVIDIA</b>
 5f8ab99 Lead Developer @ SmartQnA (2025-26): +40% answer relevance with RAG
 522312e Senior SWE @ Aadi-Vaani (2024-25): RAG over 100K+ government docs
 e1ad067 Lead Backend @ CogniX (2024): -60% model latency, -45% resources

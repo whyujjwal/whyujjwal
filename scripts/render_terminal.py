@@ -46,12 +46,11 @@ HOST = ("ujjwal", "github")
 NEOFETCH = [  # (key, value); a value can also be a list of (text, classes) parts
     ("OS", "BITS Pilani B.E."),
     ("Host", "New Delhi, India"),
-    ("Role", [("Applied AI Engineer @ ", "fg"), ("NVIDIA", "nv B")]),
+    ("Role", "AI Agent & Automation Engineer"),
     ("Kernel", "Python, Go, TypeScript"),
     ("Agents", "LangChain, MCP, RAG"),
     ("Memory", "ChromaDB, Pinecone, Weaviate"),
     ("Infra", "Docker, Kubernetes, AWS, GCP"),
-    ("GPU", [("NVIDIA", "nv B"), (" (obviously)", "fg")]),
     ("Uptime", "shipping since 2023"),
     ("Mode", "production (demo mode: off)"),
 ]
