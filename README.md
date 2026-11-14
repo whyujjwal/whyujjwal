@@ -1,89 +1,44 @@
-<h1 align="center">Ujjwal Raj</h1>
-<h3 align="center">AI Agent & Automation Engineer</h3>
+<!-- hello, fellow view-source enjoyer. the terminal is drawn by scripts/render_terminal.py -->
 
 <p align="center">
-  I build production-grade AI agent systems, RAG pipelines, and scalable backends that ship to production<br>— not prototypes that break after a demo.
+  <img src="assets/terminal.svg" width="100%" alt="ujjwal@github running neofetch. Role: Applied AI Engineer @ NVIDIA. Host: New Delhi, India. OS: BITS Pilani B.E. Kernel: Python, Go, TypeScript. Agents: LangChain, MCP, RAG.">
 </p>
 
-<p align="center">
-  <a href="https://in.linkedin.com/in/ujjwal-raj-2019b5181"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://x.com/whyujjwal"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
-</p>
+<pre>
+<b>UJJWAL(1)</b>                       User Commands                        <b>UJJWAL(1)</b>
 
----
+<b>NAME</b>
+       ujjwal - builds AI agents that still work after the demo
 
-### About
+<b>SYNOPSIS</b>
+       <b>ujjwal</b> [<b>--agents</b>] [<b>--rag</b>] [<b>--backend</b>] <i>problem</i>
 
-Senior AI/ML engineer with experience building systems for enterprises and government organizations. Led AI development for a research platform in collaboration with **BITS Pilani** and **India's Ministry of Tribal Affairs**, processing 100K+ government documents. Previously led backend and AI infrastructure at multiple startups.
+<b>DESCRIPTION</b>
+       Applied AI engineer at <b>NVIDIA</b>, based in New Delhi. B.E., BITS Pilani.
+       Builds multi-agent systems, RAG pipelines and backends that run in
+       production. Previously led AI for a research platform with BITS
+       Pilani and India's Ministry of Tribal Affairs (100K+ gov documents).
 
-**BITS Pilani** — Bachelor of Engineering
+<b>SEE ALSO</b>
+       <a href="https://whyujjwal.com">whyujjwal.com</a>(7), <a href="https://in.linkedin.com/in/ujjwal-raj-2019b5181">linkedin</a>(1), <a href="https://x.com/whyujjwal">x</a>(1)
+</pre>
 
----
+<pre>
+<b>$ ls ~/projects</b>
+<a href="https://github.com/whyujjwal/claude-marketing">claude-marketing/</a>           ★17  marketing co-founder for Claude Code
+<a href="https://github.com/whyujjwal/AgentOptimisedMonorepo">AgentOptimisedMonorepo/</a>     ★8   monorepo built for humans + AI agents
+<a href="https://github.com/whyujjwal/reddit-marketing-agent">reddit-marketing-agent/</a>          Reddit marketing agent (MCP server)
+<a href="https://github.com/whyujjwal/mcpflight">mcpflight/</a>                       flight recorder for MCP servers
+<a href="https://github.com/whyujjwal/warden">warden/</a>                          control plane + audit trail for agents
+<a href="https://github.com/whyujjwal/repoexec">repoexec/</a>                        GitHub-native runner for coding agents
+<a href="https://github.com/whyujjwal/bitsians-map">bitsians-map/</a>                    companies founded by BITS alumni
+</pre>
 
-### What I Build
-
-- **AI Agent Systems** — Multi-agent orchestration, autonomous workflows, tool-use agents with LangChain
-- **RAG Pipelines** — Document ingestion, vector search, hybrid retrieval, grounded Q&A systems
-- **Production Backends** — High-performance APIs, microservices, inference serving at scale
-
----
-
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/whyujjwal/agent-dashboard">Agent Dashboard</a></h3>
-      <p>Multi-agent orchestration platform with tool access control, Docker isolation, planner-driven workspace generation, mission Kanban board, and real-time communication.</p>
-      <p><sub>Next.js 15 · Express · Socket.IO · PostgreSQL · Prisma · Docker</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/whyujjwal/AgentOptimisedMonorepo">AI-Native Monorepo</a></h3>
-      <p>Production-ready monorepo architected for human and AI agent collaboration — zone ownership, vector memory (ChromaDB), skills system, and multi-agent coordination.</p>
-      <p><sub>FastAPI · Next.js · ChromaDB · Docker · pnpm</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/whyujjwal/novaforge">NovaForge IDE</a></h3>
-      <p>Custom IDE built on VS Code with integrated AI agent workflows — task execution, live agent logs, and command palette integration for AI-assisted development.</p>
-      <p><sub>TypeScript · Electron · Node.js</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/whyujjwal/stackgen">StackGen</a></h3>
-      <p>CLI tool that generates production-ready, AI-friendly project scaffolds. Go from idea to codebase in under 2 minutes. Published on npm.</p>
-      <p><sub>Go · npm · Docker</sub></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### Tech Stack
-
-**Languages:** Python, Go, TypeScript, SQL
-
-**AI/ML:** LangChain, OpenAI API, RAG, ChromaDB, Pinecone, Weaviate
-
-**Backend:** FastAPI, Gin, Express, PostgreSQL, Redis, REST, WebSocket
-
-**Infrastructure:** Docker, Kubernetes, AWS, GCP, Azure, CI/CD
-
----
-
-### Professional Experience
-
-**Lead Developer — SmartQnA** &nbsp; `2025 – 2026`
-<br>Built an AI-powered Q&A platform using RAG. Improved answer relevance by 40% through optimized chunking and re-ranking strategies.
-
-**Senior Software Engineer — Aadi-Vaani** &nbsp; `2024 – 2025`
-<br>Led AI integration for a government research platform (BITS Pilani + Ministry of Tribal Affairs). Built RAG pipeline over 100K+ government documents.
-
-**Lead Backend Developer — CogniX** &nbsp; `2024`
-<br>Built ML inference serving infrastructure. Reduced model latency by 60% and backend resource consumption by 45%.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whyujjwal&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" />
-</p>
+<pre>
+<b>$ git log --oneline career</b>
+2a79ca7 <b>(HEAD -&gt; main)</b> Applied AI Engineer @ <b>NVIDIA</b>
+5f8ab99 Lead Developer @ SmartQnA (2025-26): +40% answer relevance with RAG
+522312e Senior SWE @ Aadi-Vaani (2024-25): RAG over 100K+ government docs
+e1ad067 Lead Backend @ CogniX (2024): -60% model latency, -45% resources
+20e1a24 Initial commit: B.E. @ BITS Pilani
+</pre>
